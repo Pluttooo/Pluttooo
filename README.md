@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pluttooo
+- 👋 Hi, I’m @Pluttooo👋🏻
 
 <!---
 Pluttooo/Pluttooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
